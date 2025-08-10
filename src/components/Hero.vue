@@ -20,30 +20,30 @@ import { ArrowRight } from "lucide-vue-next";
           <span class="mr-2 text-primary">
             <Badge>New</Badge>
           </span>
-          <span> Design is out now! </span>
+          <span> Latest Illustration Drop </span>
         </Badge>
 
         <div
           class="max-w-screen-md mx-auto text-center text-5xl md:text-6xl font-bold"
         >
           <h1>
-            Experience the
+            
             <span
               class="text-transparent bg-gradient-to-r from-[#D247BF] to-primary bg-clip-text"
-              >Shadcn/Vue
-            </span>
-            landing page
+              >artOselect
+            </span><br></br>
+            Where Creativity Meets Precision
           </h1>
         </div>
 
         <p class="max-w-screen-sm mx-auto text-xl text-muted-foreground">
-          We're more than just a tool, we're a community of passionate creators.
-          Get access to exclusive resources, tutorials, and support.
+          We’re more than just an illustration brand — we’re a creative hub for bold ideas and unique visuals. From custom portraits to brand-ready designs, artOselect blends 
+          artistic vision with modern digital tools to bring your story to life. Explore the portfolio, learn the process, and be part of the journey.
         </p>
 
         <div class="space-y-4 md:space-y-0 md:space-x-4">
           <Button class="w-5/6 md:w-1/4 font-bold group/arrow">
-            Get Started
+            View Portfolio
             <ArrowRight
               class="size-5 ml-2 group-hover/arrow:translate-x-1 transition-transform"
             />
@@ -55,9 +55,9 @@ import { ArrowRight } from "lucide-vue-next";
             class="w-5/6 md:w-1/4 font-bold"
           >
             <a
-              href="https://github.com/leoMirandaa/shadcn-vue-landing-page.git"
+              href="https://instagram.com/artoselect"
               target="_blank"
-              >Github respository</a
+              >Follow on Instagram</a
             >
           </Button>
         </div>
