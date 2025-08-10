@@ -87,7 +87,7 @@ const handleSubmit = () => {
               <div class="font-bold">Mail Us</div>
             </div>
 
-            <div>leomirandadev@gmail.com</div>
+            <div>abc@gmail.com</div>
           </div>
 
           <div>
